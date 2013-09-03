@@ -126,12 +126,31 @@ h3 {
 	border: none;
 }
 
-#footer {
+footer {
 	width: 500px;
 	margin: 50px auto 20px auto;
 	padding-top: 10px;
-	font-size: 0.85em;
+	font-size: 1em;
 	border-top: 1px solid #073642;
+}
+
+footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+footer .contact a {
+  color: #8085C1;
+}
+
+footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+footer .rss img {
+  border: 0;
 }
 
 #content {
