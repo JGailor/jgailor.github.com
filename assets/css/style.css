@@ -123,6 +123,12 @@ h3 {
 	margin-bottom: 4px;
 }
 #header h1 a {
+  font-family: 'DukeFill', Impact, sans-serif;
+  font-weight: 900;
+  font-size: 72px;
+  font-stretch: 10px;
+  letter-spacing: 8px;
+  text-shadow: 3px 3px 0 rgba(100,100,100,0.5);  
 	border: none;
 }
 
@@ -237,6 +243,13 @@ img.center {
 
 .postnavigation .right {
 	float: right;
+}
+
+/*** Posts ***/
+.post h1 a {
+  font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 
