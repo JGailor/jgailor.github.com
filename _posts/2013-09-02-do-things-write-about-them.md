@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Do things, write about it, look for feedback"
-date:   2013-08-28 15:11
+published:   2013-09-02
 categories: musings
 ---
 
